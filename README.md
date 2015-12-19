@@ -1,6 +1,12 @@
-# learning-clojure
+# Learning Clojure
 
-FIXME: description
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/TerrenceMiao/learning-clojure/master/learning-clojure.png "Learning Clojure in IntelliJ 15"
+
+Try to understand the ecosystem of Clojure.
+
+What's it role? Computer Science projects, Data Analysis, Communication applications, or a revolution replacing Java's domination in Enterprise space.
 
 ## Installation
 
