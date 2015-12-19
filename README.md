@@ -6,11 +6,16 @@
 
 Try to understand the ecosystem of Clojure.
 
-What's it role? Computer Science projects, Data Analysis, Communication applications, or a revolution replacing Java's domination in Enterprise space.
+What's it role? Computer Science projects, Data Analysis, Communication applications, or a revolution replacing Java's JVM domination in Enterprise space.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from:
+
+* IntelliJ - https://www.jetbrains.com/idea/download/
+* Cursive plugin - https://cursive-ide.com/
+* Leinington build framework - http://leiningen.org/
+* Oracle JDK - http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 ## Usage
 
